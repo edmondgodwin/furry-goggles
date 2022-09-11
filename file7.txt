@@ -1,1 +1,2 @@
 test commit -am command
+line 2 added
